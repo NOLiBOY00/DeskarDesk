@@ -71,7 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Login - DiskarDesk</title>
-    <link rel="icon" href="public/logo/Logo_trns.png" type="image/x-icon">
+    <link rel="icon" href="public/logo/logo_only.png" type="image/x-icon">
     <link href="public/css/framework/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -81,7 +81,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="row justify-content-center align-item-center g-4">
 
             <div class="justify-content-center col-md-4 text-center">
-                    <img class="img-fluid" src="public/logo/Logo_w_txt_trns.png" width="400" height="400" alt="logo">
+                    <img class="img-fluid" src="public/logo/w_txt.png" width="400" height="400" alt="logo">
             </div>
 
             <div class="col-md-5">

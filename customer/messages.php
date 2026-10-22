@@ -41,7 +41,7 @@ if (!$order) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Messages - DiskarDesk</title>
-    <link rel="icon" href="../public/logo/Logo_trns.png" type="image/x-icon">
+    <link rel="icon" href="../public/logo/logo_only.png" type="image/x-icon">
     <link href="../public/css/framework/bootstrap.min.css" rel="stylesheet">
 </head>
 

@@ -12,7 +12,7 @@ require_once 'includes/functions.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DiskarDesk</title>
-    <link rel="icon" href="public/logo/Logo_trns.png" type="image/x-icon">
+    <link rel="icon" href="public/logo/logo_only.png" type="image/x-icon">
     <link href="public/css/framework/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -22,7 +22,7 @@ require_once 'includes/functions.php';
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand fw-bold" href="index.php">
-                <img src="public/logo/Logo_trns.png" width="40" height="40" alt="logo" class="d-inline-block align-text-top">
+                <img src="public/logo/logo_only.png" width="40" height="40" alt="logo" class="d-inline-block align-text-top">
                 DiskarDesk
             </a>
 

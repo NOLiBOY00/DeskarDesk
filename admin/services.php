@@ -28,7 +28,7 @@ $services = $stmt->fetchAll();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Services - DiskarDesk Admin</title>
-    <link rel="icon" href="../public/logo/Logo_trns.png" type="image/x-icon">
+    <link rel="icon" href="../public/logo/logo_only.png" type="image/x-icon">
     <link href="../public/css/framework/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -36,7 +36,7 @@ $services = $stmt->fetchAll();
 
     <nav class="navbar navbar-dark bg-dark">
         <div class="container">
-               <a class="navbar-brand"><img src="../public/logo/Logo_trns.png" width="30" height="30" alt="logo" class="d-inline-block align-text-top">
+               <a class="navbar-brand"><img src="../public/logo/logo_only.png" width="30" height="30" alt="logo" class="d-inline-block align-text-top">
                Services
             </a>
         <div>

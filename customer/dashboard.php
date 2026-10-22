@@ -42,7 +42,7 @@ $orders = $orderStmt->fetchAll(PDO::FETCH_ASSOC);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Customer Dashboard - DiskarDesk</title>
-    <link rel="icon" href="../public/logo/Logo_trns.png" type="image/x-icon">
+    <link rel="icon" href="../public/logo/logo_only.png" type="image/x-icon">
     <link href="../public/css/framework/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -51,7 +51,7 @@ $orders = $orderStmt->fetchAll(PDO::FETCH_ASSOC);
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
         <a class="navbar-brand">
-            <img src="../public/logo/Logo_trns.png" width="30" height="30" alt="logo" class="d-inline-block align-text-top">
+            <img src="../public/logo/logo_only.png" width="30" height="30" alt="logo" class="d-inline-block align-text-top">
             DiskarDesk
         </a>
         <div>

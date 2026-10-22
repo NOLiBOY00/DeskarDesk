@@ -113,8 +113,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="../public/logo/logo_only.png" type="image/x-icon">
     <title>Report an Issue - DiskarDesk</title>
-
     <link href="../public/css/framework/bootstrap.min.css" rel="stylesheet">
 </head>
 

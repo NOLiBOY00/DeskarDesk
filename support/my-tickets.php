@@ -31,6 +31,7 @@ $tickets = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>My Support Cases - DsikarDesk</title>
+    <link rel="icon" href="../public/logo/logo_only.png" type="image/x-icon">
     <link href="../public/css/framework/bootstrap.min.css" rel="stylesheet">
 </head>
 

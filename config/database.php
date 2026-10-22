@@ -1,9 +1,8 @@
 <?php
-
-$host = 'localhost';
-$dbname = 'diskardesk';
-$username = 'root';
-$password = '';
+$host = 'sql107.infinityfree.com';
+$dbname = 'if0_43222475_diskardesk';
+$username = 'if0_43222475';
+$password = 'WsiXDcdOjiVF';
 
 try {
 
